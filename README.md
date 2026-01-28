@@ -5,5 +5,4 @@ This project is used to learn Git and GiHub for team collaboration
 
 ## project Motivation
 
-This project helps beginners learn Git and Github workflows effectively.
-
+This repository is designed as a hands-on guide for learning Git workflows in teams.
