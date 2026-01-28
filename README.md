@@ -5,5 +5,4 @@ This project is used to learn Git and GiHub for team collaboration
 
 ## project Motivation
 
-This project helps beginners learn Git and Github workflows effectively.
-
+This project was created to help new developers master Git and GitHub through practical teamwork.
