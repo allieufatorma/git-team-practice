@@ -7,3 +7,4 @@ This project is used to learn Git and GiHub for team collaboration
 
  
 This project was created to help new developers master Git and GitHub through practical teamwork and has a hands-on guide for learning Git workflows.
+Consistency is a game changer.
